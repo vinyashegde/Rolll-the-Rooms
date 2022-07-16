@@ -4,7 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - BackgroundCamera
+  - Ledge
   layers:
   - Default
   - TransparentFX
@@ -12,23 +12,23 @@ TagManager:
   - 
   - Water
   - UI
+  - whatIsPlayer
   - 
   - 
-  - NavMesh
-  - BackgroundImage
-  - DistantHotspot
-  - Ground
+  - whatIsWall
+  - whatIsGround
+  - whatIsLedge
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - whatIsKnife
   - 
   - 
   - 
   - 
   - 
+  - postProcessing
+  - dontRender
+  - bloom
   - 
   - 
   - 
