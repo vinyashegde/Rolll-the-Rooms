@@ -1,0 +1,11 @@
+Model Information:
+* title:	Door
+* source:	https://sketchfab.com/3d-models/door-6d70ea21760742688f8cceb6319f2667
+* author:	3dthauruxart (https://sketchfab.com/Thaurux)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Door" (https://sketchfab.com/3d-models/door-6d70ea21760742688f8cceb6319f2667) by 3dthauruxart (https://sketchfab.com/Thaurux) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
