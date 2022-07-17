@@ -11,6 +11,5 @@ public class rotator : MonoBehaviour
         transform.Rotate(_axis.normalized * _degreesPerSecond * Time.deltaTime);
     }
 
-
 }
 
