@@ -1,2 +1,5 @@
 # Rolll-the-Dice-Gamejam
-gamjam
+
+
+
+This was made for GMTK gamjam 2022!
