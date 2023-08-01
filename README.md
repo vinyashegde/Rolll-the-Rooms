@@ -1,5 +1,5 @@
 
-# Rolll-the-Dice-Gamejam (Unfinished)
+# Rolll-the-Rooms-Gamejam (Unfinished)
 
 ![NjdO5S (1)](https://github.com/vinyashegde/Rolll-the-Dice/assets/46837876/5ca17db0-6faa-492e-bf0c-e968d7330c25)
 
